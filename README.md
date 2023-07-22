@@ -1,0 +1,2 @@
+# Blockchain-Authentication-System
+这是一个基于Python设计的区块链证书系统，目前仅可连接本地以太坊和IPFS，主要利用Python的PDF编辑库进行证书填写和验证，并用web3库进行上链和链上检验
